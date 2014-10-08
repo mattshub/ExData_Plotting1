@@ -1,5 +1,5 @@
 ## R Code to read Household Power Consumption Data and Generate Plots
-## Matt
+## Author : Matt
 
 ## Read Power Consumption Text file into Data Table
 classes <- c("character","character","numeric","numeric","numeric","numeric",
